@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b911423cd83cf32d",
+            "id": "041208775f48be87",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/TEST.md"
+              }
             }
           }
         ]
@@ -135,27 +137,33 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b911423cd83cf32d",
+  "active": "5a5c268a06562146",
   "lastOpenFiles": [
+    "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md",
+    "中油筆記/草稿2.md",
+    "中油筆記/Attachments(太保)/20240221_202859.jpg",
+    "中油筆記/草稿.md",
+    "中油筆記/Attachments(太保)/20240222_153323.jpg",
+    "中油筆記/Attachments(太保)/20240222_153258.jpg",
+    "Excalidraw/Scripts/Downloaded/PicGO for Excalidraw.md",
+    "Excalidraw/TEST.md",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
     "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430071228_844.jpg",
     "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430071218_839.jpg",
     "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430071058_990.jpg",
     "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430071058_821.jpg",
     "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430070946_837.jpg",
     "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430070936_833.jpg",
-    "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430070916_831.jpg",
-    "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430070826_179.jpg",
-    "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430070805_824.jpg",
-    "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments/Pasted Image 20240430070726_827.jpg",
-    "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md",
     "太保 飲水機濾心&驗水請購驗收單申請方式/Attachments",
     "太保 飲水機濾心&驗水請購驗收單申請方式",
-    "中油筆記/Attachments(太保)/20240408_091717.jpg",
-    "中油筆記/草稿.md",
-    "中油筆記/草稿2.md",
     "中油筆記/Attachments(太保)",
     "中油筆記",
     "Test_KJ.md",
