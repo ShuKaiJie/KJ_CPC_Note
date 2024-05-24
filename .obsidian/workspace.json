@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d748b202974cdef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test_KJ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "測試是否成功.md",
+                "file": "Test_KJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "測試是否成功.md",
+                "file": "Test_KJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "測試是否成功.md"
+                "file": "Test_KJ.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "b911423cd83cf32d",
+  "active": "6d748b202974cdef",
   "lastOpenFiles": [
-    "().md",
     "測試是否成功.md",
+    "Test_KJ.md",
+    "().md",
     "2.md"
   ]
 }
