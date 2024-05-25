@@ -1,3 +1,20 @@
 [
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "breadcrumbs",
+  "calendar",
+  "obsidian-checklist-plugin",
+  "editing-toolbar",
+  "dataview",
+  "obsidian-git",
+  "obsidian-hover-editor",
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-importer",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "note-refactor-obsidian",
+  "obsidian-outliner",
+  "quickadd",
+  "obsidian-style-settings",
+  "style-text",
+  "templater-obsidian"
 ]

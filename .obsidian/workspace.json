@@ -11,11 +11,24 @@
             "id": "041208775f48be87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md"
+              }
+            }
+          },
+          {
+            "id": "2c705b2dec5c7d83",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "練習計算.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1f3ab20bef9ce375",
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "練習計算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "練習計算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,11 +135,44 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/TEST.md"
+                "file": "練習計算.md"
               }
             }
+          },
+          {
+            "id": "ca7ce35556a02da3",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "7653050bda7ec9ea",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bea24c1aa2aa409",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd45e06f708fcd77",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -132,18 +181,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "templater-obsidian:Templater": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5a5c268a06562146",
+  "active": "2c705b2dec5c7d83",
   "lastOpenFiles": [
     "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md",
+    "練習計算.md",
     "中油筆記/草稿2.md",
     "中油筆記/Attachments(太保)/20240221_202859.jpg",
     "中油筆記/草稿.md",
