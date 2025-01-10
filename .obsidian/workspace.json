@@ -14,7 +14,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "太保 飲水機濾心&驗水請購驗收單申請方式"
             }
           }
         ]
@@ -37,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -52,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
             }
           },
           {
@@ -60,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
             }
           }
         ]
@@ -91,7 +99,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "太保 飲水機濾心&驗水請購驗收單申請方式 的反向連結"
             }
           },
           {
@@ -103,7 +113,9 @@
                 "file": "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "太保 飲水機濾心&驗水請購驗收單申請方式 的對外連結"
             }
           },
           {
@@ -114,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
             }
           },
           {
@@ -124,7 +138,9 @@
               "type": "outline",
               "state": {
                 "file": "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "太保 飲水機濾心&驗水請購驗收單申請方式 的大綱"
             }
           },
           {
@@ -132,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -140,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "BC-tree",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -148,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -156,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -179,8 +203,7 @@
       "command-palette:開啟命令面板": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:Open Importer": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "041208775f48be87",
