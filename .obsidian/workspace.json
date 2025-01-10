@@ -11,14 +11,12 @@
             "id": "041208775f48be87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/PicGO for Excalidraw.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "PicGO for Excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-05-25 21.41.03.excalidraw"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/PicGO for Excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "PicGO for Excalidraw 的反向連結"
+              "title": "Drawing 2024-05-25 21.41.03.excalidraw 的反向連結"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/PicGO for Excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "PicGO for Excalidraw 的對外連結"
+              "title": "Drawing 2024-05-25 21.41.03.excalidraw 的對外連結"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/PicGO for Excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "PicGO for Excalidraw 的大綱"
+              "title": "Drawing 2024-05-25 21.41.03.excalidraw 的大綱"
             }
           },
           {
@@ -210,6 +208,7 @@
   },
   "active": "041208775f48be87",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/PicGO for Excalidraw.md",
     "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md",
     "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md",
     "Excalidraw/Drawing 2024-05-25 21.32.34.excalidraw.md",
@@ -219,7 +218,6 @@
     "中油筆記/草稿.md",
     "中油筆記/Attachments(太保)/20240222_153323.jpg",
     "中油筆記/Attachments(太保)/20240222_153258.jpg",
-    "Excalidraw/Scripts/Downloaded/PicGO for Excalidraw.md",
     "Excalidraw/TEST.md",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
