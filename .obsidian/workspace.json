@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-05-25 21.41.03.excalidraw"
             }
+          },
+          {
+            "id": "ae1ad8fe7e07f7e7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-10 16.37.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-10 16.37.02.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1f3ab20bef9ce375",
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md",
+                "file": "Excalidraw/Drawing 2025-01-10 16.37.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Drawing 2024-05-25 21.41.03.excalidraw 的反向連結"
+              "title": "Drawing 2025-01-10 16.37.02.excalidraw 的反向連結"
             }
           },
           {
@@ -110,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md",
+                "file": "Excalidraw/Drawing 2025-01-10 16.37.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Drawing 2024-05-25 21.41.03.excalidraw 的對外連結"
+              "title": "Drawing 2025-01-10 16.37.02.excalidraw 的對外連結"
             }
           },
           {
@@ -137,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-10 16.37.02.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Drawing 2024-05-25 21.41.03.excalidraw 的大綱"
+              "title": "Drawing 2025-01-10 16.37.02.excalidraw 的大綱"
             }
           },
           {
@@ -206,11 +220,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "041208775f48be87",
+  "active": "ae1ad8fe7e07f7e7",
   "lastOpenFiles": [
+    "Pasted Image 20250110163802_935.jpg",
+    "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-10 16.37.02.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/PicGO for Excalidraw.md",
     "太保 飲水機濾心&驗水請購驗收單申請方式/太保 飲水機濾心&驗水請購驗收單申請方式.md",
-    "Excalidraw/Drawing 2024-05-25 21.41.03.excalidraw.md",
     "Excalidraw/Drawing 2024-05-25 21.32.34.excalidraw.md",
     "練習計算.md",
     "中油筆記/草稿2.md",
